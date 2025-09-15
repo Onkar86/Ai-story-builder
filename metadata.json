@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Assistant",
+  "description": "An AI-powered web app that helps writers overcome writer's block. Users input keywords, a genre, or a partial sentence, and the AI generates plot ideas, character descriptions, dialogue suggestions, or expands on existing text.",
+  "requestFramePermissions": []
+}
